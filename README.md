@@ -12,7 +12,7 @@ Delhi · Student developer · Automotive + photography enthusiast
 
 ---
 
-I’m learning by making things: small web experiences, Python applications, and projects that connect software with the physical world. I’m especially interested in automotive design, interactive 3D, and the details that make a digital experience feel alive.
+I’m learning by making things: small web experiences, Python applications, and projects that connect software with the physical world. I’m especially interested in automotive design, interactive 3D, and the details that make a digital experience feel alive. I give all credit to Apoorva Bhardwaj.
 
 ## Current focus
 
