@@ -1,41 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="profile-banner.svg" alt="Aranya Datta — software, hardware, and visual design" width="100%" />
+</p>
 
-# ARANYA DATTA
+<p align="center">
+  <a href="https://github.com/HaxproLegend/My-Personal-Webpage">PORTFOLIO</a>　·　<a href="https://github.com/HaxproLegend">GITHUB</a>
+</p>
 
-### Building at the intersection of software, hardware, and visual design.
+<h1 align="center">Aranya Datta</h1>
 
-Delhi · Student developer · Automotive + photography enthusiast
+<p align="center"><strong>Student developer · Delhi, India</strong><br />Building at the intersection of software, hardware, and visual design.</p>
 
-[Portfolio](https://github.com/HaxproLegend/My-Personal-Webpage) · [GitHub](https://github.com/HaxproLegend)
-
-</div>
-
----
-
-I’m learning by making things: small web experiences, Python applications, and projects that connect software with the physical world. I’m especially interested in automotive design, interactive 3D, and the details that make a digital experience feel alive.
-
-## Current focus
-
-- Refreshing my portfolio and building **Hyperworld**, an interactive showcase for unusual and under-the-radar performance cars.
-- Growing my skills in HTML, CSS, JavaScript, and Python through projects.
-- Exploring hardware, Arduino, photography, and visual storytelling.
-
-## Projects
-
-| Project | What it is |
-| --- | --- |
-| [My Personal Webpage](https://github.com/HaxproLegend/My-Personal-Webpage) | My portfolio and a work in progress. |
-| [Tic Tac Toe](https://github.com/HaxproLegend/Tictactoe) | A small browser game built while learning web development. |
-| **Hyperworld** | In progress — an immersive automotive concept, coming together step by step. |
-
-## Tools I’m learning
-
-`HTML` · `CSS` · `JavaScript` · `Python` · `MySQL` · `Tkinter` · `Arduino`
+<p align="center">
+  I like turning curiosity into things you can explore, use, or take apart.<br />
+  Lately, that means automotive design, small web experiences, Python, and physical computing.
+</p>
 
 ---
 
-<div align="center">
+### 01 — In the workshop
 
-*Curious by default. Building one project at a time.*
+<table>
+  <tr>
+    <td width="68%">
+      <strong>HYPERWORLD</strong><br />
+      An interactive showcase for unusual and under-the-radar performance cars.<br /><br />
+      A study in automotive stories, digital surfaces, and immersive browsing.<br />
+      <em>Currently in progress</em>
+    </td>
+    <td width="32%" align="center"><strong>01 / 01</strong><br />AUTOMOTIVE · WEB</td>
+  </tr>
+</table>
 
-</div>
+### 02 — Selected builds
+
+| Project | Notes |
+|:--|:--|
+| [My Personal Webpage](https://github.com/HaxproLegend/My-Personal-Webpage) | Portfolio and an ongoing place to experiment. |
+| [Tic Tac Toe](https://github.com/HaxproLegend/Tictactoe) | A browser game with a portfolio-inspired visual theme. |
+| [Health Tracker](https://github.com/HaxproLegend/Health-Tracker) | A JavaScript project exploring personal health tracking. |
+
+### 03 — Materials & tools
+
+`HTML`　`CSS`　`JavaScript`　`Python`　`MySQL`　`Tkinter`　`Arduino`
+
+Learning by building; interested in interactive 3D, hardware, photography, and visual storytelling.
+
+---
+
+<p align="center"><sub>CURIOUS BY DEFAULT　·　BUILDING ONE PROJECT AT A TIME</sub></p>
