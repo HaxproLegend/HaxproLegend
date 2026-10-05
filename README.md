@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="profile-banner.svg" alt="Aranya Datta — software, hardware, and visual design" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/HaxproLegend/My-Personal-Webpage">PORTFOLIO</a>　·　<a href="https://github.com/HaxproLegend">GITHUB</a>
 </p>
 
