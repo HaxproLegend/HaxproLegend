@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://github.com/HaxproLegend/My-Personal-Webpage">PORTFOLIO</a>　·　<a href="https://github.com/HaxproLegend">GITHUB</a>
-</p>
-
 <h1 align="center">Aranya Datta</h1>
 
 <p align="center"><strong>Student developer · Delhi, India</strong><br />Building at the intersection of software, hardware, and visual design.</p>
